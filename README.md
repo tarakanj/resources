@@ -3,5 +3,3 @@
 ## Data sources
 
 ## Tutorials
-
-## Heading...
