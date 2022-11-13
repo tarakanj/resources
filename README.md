@@ -4,19 +4,13 @@
 
 ## Content
 - [GIS](#gis)
-
   - [Basemaps](#basemaps)
-  
   - [Tutorials](#tutorials)
-  
 - [3D](#3d)
 - [Networks](#networks)
 - [Data](#data)
-
   - [Environmental](#environmental)
-  
   - [Demographic](#demographic)
-  
   - [Health](#health)
 
 ---
