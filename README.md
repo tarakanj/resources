@@ -1,4 +1,25 @@
 # Spatial Data & GIS Education Resources
+#### This repository contains a curated list of ....
+---
+
+## Content
+- [GIS](#gis)
+
+  - [Basemaps](#basemaps)
+  
+  - [Tutorials](#tutorials)
+  
+- [3D](#3d)
+- [Networks](#networks)
+- [Data](#data)
+
+  - [Environmental](#environmental)
+  
+  - [Demographic](#demographic)
+  
+  - [Health](#health)
+
+---
 
 ## GIS
 
@@ -19,9 +40,7 @@
 - [https://docs.qgis.org/3.10/en/docs/training_manual/index.html](https://docs.qgis.org/3.10/en/docs/training_manual/index.html) - A digital QGIS training manual
 
 
-
 ## 3D
-
 
 ## Networks
 
@@ -40,10 +59,8 @@
 - [EarthStat](http://www.earthstat.org/) EarthStat serves geographic data sets that help solve the grand challenge of feeding a growing global population while reducing agriculture’s impact on the environment.
 - [Resource Watch](https://resourcewatch.org/) - Resource Watch features hundreds of data sets all in one place on the state of the planet’s resources and citizens
 
-
 ### Demographic
 - [GHSL - Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/P) - Open and free data and tools for assessing the human presence on the planet
-- 
 
 ### Health
 - [WHO Data](https://www.who.int/data) -  The World Health Organization's (WHO) health data collections featuring international datasets on health indicators and related data.
