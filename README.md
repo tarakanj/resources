@@ -18,14 +18,13 @@
 ## GIS
 
 ### Basemaps
-#### Open Steet Map
 - [OpenStreetMap](https://www.openstreetmap.org/#map=8/52.154/5.295) - OpenStreetMap is the free wiki world map. This colloborative project is one of the largest databases of volunteered geographic information in the world. Its contents include points of interest, routable networks, and other geodata.
 - [BBBike](https://download.bbbike.org/osm/bbbike/) - Provides shapefiles and raw OSM format for cities around the world, extracted weekly. This is useful if you are looking for data extracts for a single city.
 - [Geofabrik](http://download.geofabrik.de/) - OpenStreetMap extracts prepared in either PBF or shapefile format for download daily.
 - [MetroExtracts](https://www.interline.io/osm/extracts/) - Each day, OSM Extracts by Interline mirrors the entire OpenStreetMap planet and creates city and region sized extracts ready for download into formats ready for GIS.
 - [OverpassTurbo](https://overpass-turbo.eu/) -  Overpass Turbo is a web-based data mining tool for OpenStreetMap. It runs any kind of Overpass API query, shows the results on an interactive map, and allows users to export query data in the form of GeoJSON files (which may be converted to Shapefiles). It also provides helpful support for new users in the form of the "Wizard" tool. Using Overpass Turbo, you can query virtually any location globally using dedicated tags in Open Street Map.
-#### Esri
 - [ArcGIS Living Atlas of the World](https://livingatlas.arcgis.com/en/home/) - ArcGIS Living Atlas of the World is the foremost collection of geographic information from around the globe. It includes maps, apps, and data layers to support your work.
+- [AHN-Viewer](https://ahn.arcgisonline.nl/ahnviewer/) - Height map of the Netherlands 
 
 ### Tutorials
 - [3D geoinformation research group @ TU Delft](https://www.youtube.com/channel/UCbK2N4c3QyhGLvjx1Xx2lRw/videos) - A youTube channel aimed at creating geoinformation video tutorials, created by the 3D geoinformation research group.
@@ -52,6 +51,8 @@
 - [FAO Hand-in-Hand Geospatial Platform](https://data.apps.fao.org/) - This Digital Public Good provides open-access geographic information, key food security indicators and agricultural statistics sourced from FAO and from external organizations such as NGOs, academia, the private sector, and space agencies.
 - [EarthStat](http://www.earthstat.org/) EarthStat serves geographic data sets that help solve the grand challenge of feeding a growing global population while reducing agriculture’s impact on the environment.
 - [Resource Watch](https://resourcewatch.org/) - Resource Watch features hundreds of data sets all in one place on the state of the planet’s resources and citizens
+- [Story Maps](https://storymaps.arcgis.com/stories/ba85aa49141040bda0d088da11cf518e) - Base map of the Netherlands Natural System
+- [Provincie Zuid-Holland, Bodematlas](https://atlas.zuid-holland.nl/Geoweb56/index.html?viewer=Bodematlas) - Soil astlas of the Netherlands
 
 ### Demographic
 - [GHSL - Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/P) - Open and free data and tools for assessing the human presence on the planet
