@@ -1,5 +1,5 @@
 # Spatial Data & GIS Education Resources
-#### This repository contains a curated list of internal and external resources around urbanism specific questions. The structure of the repository is aligned with the four learning lines of spatial data and GIS education taught in the urbanism department at TU Delft.
+#### This repository contains a curated list of internal and external resources around urbanism specific questions. The structure of the repository is aligned with the four learning lines of spatial data and GIS education taught in the urbanism department at TU Delft. (learning lines etc)
 ---
 
 ## Content
@@ -63,10 +63,9 @@
 ## 3D
 ### Environmental Modelling 
 - [Copernicus - Calculating UHI](https://rus-copernicus.eu/portal/wp-content/uploads/library/education/training/LAND09_UrbanHeatIsland_London.pdf) - Manual on how to calculate Urban Heat Island with Sentinel-3
-### 3D Parametric Design
+### 3D Parametric Design with Rhino and Grasshopper
 ### 3D GIS
-- [3D Geoinformation]URBAN HEAT ISLAND WITH SENTINEL-3 - MSc Geomatics courses
-### Rhino and Grasshopper 
+- [3D Geoinformation] URBAN HEAT ISLAND WITH SENTINEL-3 - MSc Geomatics courses
 ### BIM and GIS
 ### VR/AR
 ### 3D Digital Elevation Models
