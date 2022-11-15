@@ -43,7 +43,7 @@
 ### Spatial Analysis
 - [Visibility Analysis](https://www.giscourse.com/how-to-create-a-visibility-analysis-with-qgis/) - How to create a Visibility Analysis with QGIS
 - [Viewshed Analysis](https://www.youtube.com/watch?v=fGKgvg0QoXA) - Video tutorial on how to use the Visibility Analysis plugin to create a viewshed from view points.
-### Mapping? Generating Maps?
+### Mapping? Generating Maps? Basics?
 - [QGIS Tutorials](https://www.qgistutorials.com/en/index.html) - Structured QGIS tutorials covering basics.
 - [Spatial Thoughts](https://spatialthoughts.com/courses/introduction-to-qgis/) - An introductory course that covers QGIS from the very basics. You will learn how to use QGIS for mapping, spatial data processing and spatial analysis. 
 - [3D geoinformation research group @ TU Delft](https://www.youtube.com/channel/UCbK2N4c3QyhGLvjx1Xx2lRw/videos) - A youTube channel aimed at creating geoinformation video tutorials, created by the 3D geoinformation research group.
@@ -62,10 +62,10 @@
 
 ## 3D
 ### Environmental Modelling 
-- [Creating 
+- [Copernicus - Calculating UHI](https://rus-copernicus.eu/portal/wp-content/uploads/library/education/training/LAND09_UrbanHeatIsland_London.pdf) - Manual on how to calculate Urban Heat Island with Sentinel-3
 ### 3D Parametric Design
 ### 3D GIS
-[3D Geoinformation](https://3d.bk.tudelft.nl/education/#courses) - MSc Geomatics courses
+- [3D Geoinformation]URBAN HEAT ISLAND WITH SENTINEL-3 - MSc Geomatics courses
 ### Rhino and Grasshopper 
 ### BIM and GIS
 ### VR/AR
