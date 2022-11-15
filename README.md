@@ -40,29 +40,51 @@
 ---
 
 ## GIS
-### Mapping
+### Spatial Analysis
+- [Visibility Analysis](https://www.giscourse.com/how-to-create-a-visibility-analysis-with-qgis/) - How to create a Visibility Analysis with QGIS
+- [Viewshed Analysis](https://www.youtube.com/watch?v=fGKgvg0QoXA) - Video tutorial on how to use the Visibility Analysis plugin to create a viewshed from view points.
+### Mapping? Generating Maps?
+- [QGIS Tutorials](https://www.qgistutorials.com/en/index.html) - Structured QGIS tutorials covering basics.
+- [Spatial Thoughts](https://spatialthoughts.com/courses/introduction-to-qgis/) - An introductory course that covers QGIS from the very basics. You will learn how to use QGIS for mapping, spatial data processing and spatial analysis. 
+- [3D geoinformation research group @ TU Delft](https://www.youtube.com/channel/UCbK2N4c3QyhGLvjx1Xx2lRw/videos) - A youTube channel aimed at creating geoinformation video tutorials, created by the 3D geoinformation research group.
+- [Open Source Options](https://opensourceoptions.com/blog/how-to-download-landsat-and-sentinel-images/) - Tutorial on how to Download Landsat and Sentinel Images for Free
 ### Multicriteria Analysis
+- [Multi Criteria Overlay Analysis](https://www.qgistutorials.com/en/docs/3/multi_criteria_overlay.html) - Tutorial on multi-criteria weighted-overlay analysis: the process of the allocating areas on the basis of a variety of attributes that the selected areas should possess. 
 ### Working with digital elevation models
+- [Open Source Options](https://opensourceoptions.com/blog/how-to-create-contour-lines-and-labels-with-qgis/#:~:text=In%20QGIS%2C%20contour%20lines%20can,contours%20(see%20image%20below).) - Tutorial on how to Create Contour Lines and Labels with QGIS
+- [GEODOSE Contour lines tutorial](https://www.geodose.com/2018/05/how-to-create-contour-lines-in-qgis.html) - How to Create Contour Lines in QGIS
+- [QGIS Tutorials](https://www.qgistutorials.com/en/docs/3/working_with_terrain.html) - Steps to generate various maps from elevation data such as hillshade and contour.
 ### Agency of Mapping
 ### Geoprocessing
+### Cartography
+
+
 
 ## 3D
 ### Environmental Modelling 
+- [Creating 
 ### 3D Parametric Design
 ### 3D GIS
+[3D Geoinformation](https://3d.bk.tudelft.nl/education/#courses) - MSc Geomatics courses
 ### Rhino and Grasshopper 
 ### BIM and GIS
 ### VR/AR
+### 3D Digital Elevation Models
+- [DEM in QGIS](https://www.youtube.com/watch?v=2KrCsbP0kUs) - Video tutorial on Digital Elevation Model (DEM) 3D Visualization in QGIS.
+- [QGIS Terrain Analysis](https://www.youtube.com/watch?v=B-5RQ9o9EyU) - Video tutorial on QGIS Terrain Analysis: hillshade, slope, aspect
 
 ## Networks
 ### Mapping Networks
 ### Street Network Analysis
+- [Spatial Morphology Group](https://www.smog.chalmers.se/pst) - Place Syntax Tool download and tutorial
 ### Social Network Analysis
 ### The Morphology of Flows 
+- [River Stream Hierarchy Tutorial](https://www.youtube.com/watch?v=zqp4PxTjCPk) - A video tutorial on river streams order network mapping in QGIS based on vector topology.
 
 ## Data Skills
 ### Reflection
 ### Visualization 
+- [RAWGraphs](https://www.rawgraphs.io/) - A free and open source tool for data visualization
 ### Skills 
 ### Data Management
 
@@ -115,7 +137,7 @@
 
 
 ### ADD IN "GIS" - TUTORIALS BASICS 
-- [3D geoinformation research group @ TU Delft](https://www.youtube.com/channel/UCbK2N4c3QyhGLvjx1Xx2lRw/videos) - A youTube channel aimed at creating geoinformation video tutorials, created by the 3D geoinformation research group.
+
 - [QGIS TOI-Pedia](http://wiki.bk.tudelft.nl/toi-pedia/QGIS#Basic_tutorials) - A digital repository by TUDelft with QGIS tutorials 
 - [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/) - QGIS Tutorials and Tips
 - [https://docs.qgis.org/3.10/en/docs/training_manual/index.html](https://docs.qgis.org/3.10/en/docs/training_manual/index.html) - A digital QGIS training manual
