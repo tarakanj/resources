@@ -77,6 +77,7 @@
 ### Mapping Networks
 ### Street Network Analysis
 - [Spatial Morphology Group](https://www.smog.chalmers.se/pst) - Place Syntax Tool download and tutorial
+- [Space Syntax](https://www.spacesyntax.net/software/) - Spatial & Network Analysis software is available to professional practitioners and academic researchers for commercial and non-commercial use.
 ### Social Network Analysis
 ### The Morphology of Flows 
 - [River Stream Hierarchy Tutorial](https://www.youtube.com/watch?v=zqp4PxTjCPk) - A video tutorial on river streams order network mapping in QGIS based on vector topology.
@@ -85,9 +86,10 @@
 ### Reflection
 ### Visualization 
 - [RAWGraphs](https://www.rawgraphs.io/) - A free and open source tool for data visualization
+- [flowmap-blue](https://flowmap.blue/) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
 ### Skills 
 ### Data Management
-
+- [Kepler](https://kepler.gl/) - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations.
 ## Data Sources 
 ### Environmental Data
 - [NASA Earth Data](https://www.earthdata.nasa.gov/) - The Earth Science Data Systems (ESDS) Program provides full and open access to NASA’s collection of Earth science data. 
