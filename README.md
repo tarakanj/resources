@@ -1,5 +1,7 @@
 # Spatial Data & GIS Education Resources
+
 This repository contains a curated list of internal and external resources around urbanism specific questions. The structure of the repository is aligned with the four learning lines of spatial data and GIS education taught in the urbanism department at TU Delft. (learning lines etc)
+
 ---
 
 ## Content
