@@ -135,7 +135,7 @@ This repository contains a curated list of internal and external resources aroun
 ### Platforms, Software, Tools
 
 ### Demographic and Health Data
-- [GHSL - Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/P) - Open and free data and tools for assessing the human presence on the planet
+- [GHSL - Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/) - Open and free data and tools for assessing the human presence on the planet
 - [WHO Data](https://www.who.int/data) -  The World Health Organization's (WHO) health data collections featuring international datasets on health indicators and related data.
 
 
