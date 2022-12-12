@@ -131,13 +131,20 @@ This repository contains a curated list of internal and external resources aroun
 - [GMNS](https://github.com/zephyr-data-specs/GMNS) - The General Modeling Network Specification defines a common human and machine readable format for sharing routable road network files.
 
 ### Historic Data
+- [David Rumsey Map Collection](https://www.davidrumsey.com/home) - The David Rumsey Map collection includes historic atlases, pocket maps, books of exploration, maritime charts, and a variety of cartographic materials including manuscript maps, ranging in date from around 1550 to the present.
+- [Topotijdreis](https://www.topotijdreis.nl/) - Detailed map of the Netherlands dating back to 1815.
+- [World Imagery Wayback](https://www.arcgis.com/home/item.html?id=8d47b1f2ccf141bbab8b73f5f8acc979) - Wayback imagery is a digital archive of the World Imagery basemap, enabling users to access different versions of World Imagery captured over the years.
+- [Old Maps Online](https://www.oldmapsonline.org/) - Indexes over 400.000 historical maps.
+
 ### Land Use and Land Cover
-### Platforms, Software, Tools
+- [Copernicus Global Land Service](https://land.copernicus.eu/global/products/lc) -  Maps including spatial information on different classes of physical coverage of the Earth's surface.
+
 
 ### Demographic and Health Data
 - [GHSL - Global Human Settlement Layer](https://ghsl.jrc.ec.europa.eu/) - Open and free data and tools for assessing the human presence on the planet
 - [WHO Data](https://www.who.int/data) -  The World Health Organization's (WHO) health data collections featuring international datasets on health indicators and related data.
 
+### Platforms, Software, Tools
 
 ### ADD IN "GIS" - TUTORIALS BASICS 
 
