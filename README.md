@@ -6,16 +6,15 @@ This repository contains a curated list of internal and external resources aroun
 
 ## Content
 - [GIS](#gis)
-  - [Mapping](#mapping)
-  - [Multicriteria Analysis](multicriteria-analysis)
+  - [Generating Maps](#generating-maps)
+  - [Multicriteria Analysis](#multicriteria-analysis)
   - [Working with digital elevation models](#working-with-digital-elevation-models)
   - [Agency of Mapping](#agency-of-mapping)
   - [Geoprocessing](#geoprocessing)
 - [3D](#3d)
   - [Environmental Modelling](#environmental-modelling) 
-  - [3D Parametric Design](#3d-parametric-design)
   - [3D GIS](#3d-gis)
-  - [Rhino and Grasshopper](#rhino-and-grasshopper) 
+  - [3D Parametric Design with Rhino and Grasshopper](#3d-parametric-design-with-rhino-and-grasshopper) 
   - [BIM and GIS](#bim-and-gis)
   - [VR/AR](vr-/-ar)
 - [Networks](#networks)
@@ -28,7 +27,7 @@ This repository contains a curated list of internal and external resources aroun
   - [Visualization](#visualization)
   - [Skills](#skills)
   - [Data Management](#data-management)
-- [Data Sources](#data-sesources)
+- [Data Sources](#data-sources)
   - [Environmental Data](#environmental-data)
   - [Terrain and Bathymetry](#terrain-and-bathymetry)
   - [Climate Data](#climate-data)
@@ -42,37 +41,48 @@ This repository contains a curated list of internal and external resources aroun
 ---
 
 ## GIS
-### Spatial Analysis
-- [Visibility Analysis](https://www.giscourse.com/how-to-create-a-visibility-analysis-with-qgis/) - How to create a Visibility Analysis with QGIS
-- [Viewshed Analysis](https://www.youtube.com/watch?v=fGKgvg0QoXA) - Video tutorial on how to use the Visibility Analysis plugin to create a viewshed from view points.
-### Mapping? Generating Maps? Basics?
+### Generating Maps 
+(Mapping? Generating Maps? Basics?)(but this also includes general tutorials?)
 - [QGIS Tutorials](https://www.qgistutorials.com/en/index.html) - Structured QGIS tutorials covering basics.
 - [Spatial Thoughts](https://spatialthoughts.com/courses/introduction-to-qgis/) - An introductory course that covers QGIS from the very basics. You will learn how to use QGIS for mapping, spatial data processing and spatial analysis. 
 - [3D geoinformation research group @ TU Delft](https://www.youtube.com/channel/UCbK2N4c3QyhGLvjx1Xx2lRw/videos) - A youTube channel aimed at creating geoinformation video tutorials, created by the 3D geoinformation research group.
-- [Open Source Options](https://opensourceoptions.com/blog/how-to-download-landsat-and-sentinel-images/) - Tutorial on how to Download Landsat and Sentinel Images for Free
+- [Open Source Options](https://opensourceoptions.com/blog/how-to-download-landsat-and-sentinel-images/) - Tutorial on how to Download High resolution Landsat and Sentinel Images for Free
+- [QGIS TOI-Pedia](http://wiki.bk.tudelft.nl/toi-pedia/QGIS#Basic_tutorials) - A digital repository by TUDelft with QGIS tutorials 
+- [Breda University Guide](https://buas.libguides.com/c.php?g=661924&p=4677042) - A webpage with answers to basic QGIS FAQs and relevant literature
+
+### Spatial Analysis
+- [Visibility Analysis](https://www.giscourse.com/how-to-create-a-visibility-analysis-with-qgis/) - How to create a Visibility Analysis with QGIS
+- [Viewshed Analysis](https://www.youtube.com/watch?v=fGKgvg0QoXA) - Video tutorial on how to use the Visibility Analysis plugin to create a viewshed from view points.
+- [QGIS Training video Tutorials: Using Spatial Data in Geographic Information Systems](https://www.youtube.com/playlist?list=PLhDwnGYSFgBHsRmrJmmOVbFi3uDBvz-FI) - A youtube playlist containing a sequence of video tutorials on using QGIS for spatial analysis.
 ### Multicriteria Analysis
 - [Multi Criteria Overlay Analysis](https://www.qgistutorials.com/en/docs/3/multi_criteria_overlay.html) - Tutorial on multi-criteria weighted-overlay analysis: the process of the allocating areas on the basis of a variety of attributes that the selected areas should possess. 
+- [Multi-Criteria Decision Analysis and GIS](https://storymaps.arcgis.com/stories/b60b7399f6944bca86d1be6616c178cf) - A tutorial on multi-criteria decision analysis and GIS
 ### Working with digital elevation models
 - [Open Source Options](https://opensourceoptions.com/blog/how-to-create-contour-lines-and-labels-with-qgis/#:~:text=In%20QGIS%2C%20contour%20lines%20can,contours%20(see%20image%20below).) - Tutorial on how to Create Contour Lines and Labels with QGIS
 - [GEODOSE Contour lines tutorial](https://www.geodose.com/2018/05/how-to-create-contour-lines-in-qgis.html) - How to Create Contour Lines in QGIS
 - [QGIS Tutorials](https://www.qgistutorials.com/en/docs/3/working_with_terrain.html) - Steps to generate various maps from elevation data such as hillshade and contour.
 ### Agency of Mapping
+(?)
 ### Geoprocessing
+- [QGIS Geoprocessing tools video tutorial](https://www.youtube.com/watch?v=Zqo8urOTH3c) - Video tutorial explaining basics of geoprocessing tools in QGIS.
+- [The 7 Essential Geoprocessing tools](https://gisgeography.com/geoprocessing-tools/) - An article explaining the seven essential geoprocessing tools.
+- [QGIS Vector Menu](https://docs.qgis.org/2.18/en/docs/user_manual/processing/vector_menu.html) - List of functions and commands of the QGIS vector menu. 
+- [Geoprocessing Tools video tutorial (Part 1)](https://www.youtube.com/watch?v=se-Ybs1ByJ8&list=PLhDwnGYSFgBHsRmrJmmOVbFi3uDBvz-FI&index=18) - Video tutrial on geoprocessing
+- [Geoprocessing Tools video tutorial (Part 1)](https://www.youtube.com/watch?v=ewA6GapQoBc&list=PLhDwnGYSFgBHsRmrJmmOVbFi3uDBvz-FI&index=19) - Video tutrial on geoprocessing
 ### Cartography
-
-
 
 ## 3D
 ### Environmental Modelling 
 - [Copernicus - Calculating UHI](https://rus-copernicus.eu/portal/wp-content/uploads/library/education/training/LAND09_UrbanHeatIsland_London.pdf) - Manual on how to calculate Urban Heat Island with Sentinel-3
 ### 3D Parametric Design with Rhino and Grasshopper
 ### 3D GIS
-- [3D Geoinformation] URBAN HEAT ISLAND WITH SENTINEL-3 - MSc Geomatics courses
+- [3D Geoinformation](https://3d.bk.tudelft.nl/education/) - MSc Geomatics courses
 ### BIM and GIS
 ### VR/AR
 ### 3D Digital Elevation Models
 - [DEM in QGIS](https://www.youtube.com/watch?v=2KrCsbP0kUs) - Video tutorial on Digital Elevation Model (DEM) 3D Visualization in QGIS.
 - [QGIS Terrain Analysis](https://www.youtube.com/watch?v=B-5RQ9o9EyU) - Video tutorial on QGIS Terrain Analysis: hillshade, slope, aspect
+- [Digital Elevation Models and the Raster Calculator video tutorial](https://www.youtube.com/watch?v=wtSBp77oyfk&list=PLhDwnGYSFgBHsRmrJmmOVbFi3uDBvz-FI&index=22) - Video tutorial explaining common tools and derivatives of digital elevation models (DEMs) and how to use the Raster Calculator to select and combine rasters. 
 
 ## Networks
 ### Mapping Networks
@@ -91,6 +101,7 @@ This repository contains a curated list of internal and external resources aroun
 ### Skills 
 ### Data Management
 - [Kepler](https://kepler.gl/) - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations.
+
 ## Data Sources 
 ### Environmental Data
 - [NASA Earth Data](https://www.earthdata.nasa.gov/) - The Earth Science Data Systems (ESDS) Program provides full and open access to NASA’s collection of Earth science data. 
@@ -106,8 +117,8 @@ This repository contains a curated list of internal and external resources aroun
 - [Story Maps](https://storymaps.arcgis.com/stories/ba85aa49141040bda0d088da11cf518e) - Base map of the Netherlands Natural System
 - [Provincie Zuid-Holland, Bodematlas](https://atlas.zuid-holland.nl/Geoweb56/index.html?viewer=Bodematlas) - Soil atlas of the Netherlands
 - [Corine Land Cover](https://land.copernicus.eu/pan-european/corine-land-cover) - European Land Cover Database generated by the Land Monitoring Core Service (LMCS) of [Copernicus](https://land.copernicus.eu/), the European flagship programme on Earth Observation. 
-
 ### Terrain and Bathymetry
+- [AHN-Viewer](https://ahn.arcgisonline.nl/ahnviewer/) - Height map of the Netherlands 
 ### Climate Data
 ### Open Street Maps
 - [OpenStreetMap](https://www.openstreetmap.org/#map=8/52.154/5.295) - OpenStreetMap is the free wiki world map. This colloborative project is one of the largest databases of volunteered geographic information in the world. Its contents include points of interest, routable networks, and other geodata.
@@ -116,8 +127,7 @@ This repository contains a curated list of internal and external resources aroun
 - [MetroExtracts](https://www.interline.io/osm/extracts/) - Each day, OSM Extracts by Interline mirrors the entire OpenStreetMap planet and creates city and region sized extracts ready for download into formats ready for GIS.
 - [OverpassTurbo](https://overpass-turbo.eu/) -  Overpass Turbo is a web-based data mining tool for OpenStreetMap. It runs any kind of Overpass API query, shows the results on an interactive map, and allows users to export query data in the form of GeoJSON files (which may be converted to Shapefiles). It also provides helpful support for new users in the form of the "Wizard" tool. Using Overpass Turbo, you can query virtually any location globally using dedicated tags in Open Street Map.
 - [ArcGIS Living Atlas of the World](https://livingatlas.arcgis.com/en/home/) - ArcGIS Living Atlas of the World is the foremost collection of geographic information from around the globe. It includes maps, apps, and data layers to support your work.
-- [AHN-Viewer](https://ahn.arcgisonline.nl/ahnviewer/) - Height map of the Netherlands 
-- 
+
 ### Transportation
 - [SIRI](https://www.transmodel-cen.eu/siri-standard/) - SIRI is a CEN Technical Standard that specifies a European interface standard for exchanging information about the planned, current or projected performance of real-time public transport operations between different computer systems.
 - [SharedStreets](https://www.sharedstreets.io) - SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by SharedStreets. Additional Information: [GitHub](https://github.com/sharedstreets/sharedstreets-ref-system)
@@ -150,7 +160,7 @@ This repository contains a curated list of internal and external resources aroun
 
 - [QGIS TOI-Pedia](http://wiki.bk.tudelft.nl/toi-pedia/QGIS#Basic_tutorials) - A digital repository by TUDelft with QGIS tutorials 
 - [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/) - QGIS Tutorials and Tips
-- [https://docs.qgis.org/3.10/en/docs/training_manual/index.html](https://docs.qgis.org/3.10/en/docs/training_manual/index.html) - A digital QGIS training manual
+- [QGIS Training Manual](https://docs.qgis.org/3.10/en/docs/training_manual/index.html) - A digital QGIS training manual
 
 
 
