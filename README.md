@@ -67,8 +67,8 @@ This repository contains a curated list of internal and external resources aroun
 - [QGIS Geoprocessing tools video tutorial](https://www.youtube.com/watch?v=Zqo8urOTH3c) - Video tutorial explaining basics of geoprocessing tools in QGIS.
 - [The 7 Essential Geoprocessing tools](https://gisgeography.com/geoprocessing-tools/) - An article explaining the seven essential geoprocessing tools.
 - [QGIS Vector Menu](https://docs.qgis.org/2.18/en/docs/user_manual/processing/vector_menu.html) - List of functions and commands of the QGIS vector menu. 
-- [Geoprocessing Tools video tutorial (Part 1)](https://www.youtube.com/watch?v=se-Ybs1ByJ8&list=PLhDwnGYSFgBHsRmrJmmOVbFi3uDBvz-FI&index=18) - Video tutrial on geoprocessing
-- [Geoprocessing Tools video tutorial (Part 1)](https://www.youtube.com/watch?v=ewA6GapQoBc&list=PLhDwnGYSFgBHsRmrJmmOVbFi3uDBvz-FI&index=19) - Video tutrial on geoprocessing
+- [Geoprocessing Tools video tutorial (Part 1)](https://www.youtube.com/watch?v=se-Ybs1ByJ8&list=PLhDwnGYSFgBHsRmrJmmOVbFi3uDBvz-FI&index=18) - Video tutorial on geoprocessing
+- [Geoprocessing Tools video tutorial (Part 1)](https://www.youtube.com/watch?v=ewA6GapQoBc&list=PLhDwnGYSFgBHsRmrJmmOVbFi3uDBvz-FI&index=19) - Video tutorial on geoprocessing
 ### Cartography
 
 ## 3D
